@@ -1,4 +1,13 @@
+.fondo{
 
+
+    background-color: #b3b3b3;
+}
+body{
+
+    margin: 0;
+    padding: 0;
+}
 .contenedorImgP{
     display: flex;
     
@@ -18,7 +27,7 @@
     justify-content: space-around;
     gap: 30px;
     padding: 20px;
-    background-color: #ffffff;
+    background-color:#b3b3b3;
 }
 .card_B {
     
@@ -34,7 +43,7 @@
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    background-color: #ffffff;
+    background-color: #b3b3b3;
     color: rgba(202, 27, 27, 0.801);
 
 }
