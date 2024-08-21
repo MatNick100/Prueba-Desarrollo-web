@@ -1,0 +1,94 @@
+
+.contenedorImgP{
+    display: flex;
+    
+
+  
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 20px;
+
+
+}
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.card_B {
+    
+    width: 250px;
+  
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   
+}
+.Seccion_Titulo{
+
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    color: rgba(202, 27, 27, 0.801);
+
+}
+
+.Seccion_Titulo img{
+background-color: #bd0c0c;
+
+    width: 50px;
+
+    
+}
+
+.card {
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   
+}
+
+.card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    padding: 15px;
+    text-align: center;
+}
+
+.aside_img {
+
+    width: 80px;
+    background-color: #bd0c0c;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+.Medio_P {
+   
+    background-color: #343a40;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 5px;
+    color: white;
+}
